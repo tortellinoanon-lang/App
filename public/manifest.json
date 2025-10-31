@@ -1,0 +1,17 @@
+{
+  "name": "Vibe Training",
+  "short_name": "Vibe",
+  "description": "Offline-first training timer and counter",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F6F7F9",
+  "theme_color": "#3B82F6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
